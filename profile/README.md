@@ -1,6 +1,6 @@
 ### What is NebulyAI?
 
-At Nebuly, we view Large Language Models (LLMs) not merely as a new computing platform but as a transformative user experience revolution. As LLMs transition from proof of concept (PoC) to production, it’s essential for companies to ensure they provide real value to users.
+At [Nebuly](https://www.nebuly.com/), we view Large Language Models (LLMs) not merely as a new computing platform but as a transformative user experience revolution. As LLMs transition from proof of concept (PoC) to production, it’s essential for companies to ensure they provide real value to users.
 
 This is where Nebuly comes in. We empower product and AI teams to comprehend and enhance the user experience of LLM-based products. By analyzing user behavior and interactions with LLMs, we create detailed user profiles to identify what works well and what needs improvement, ensuring an optimal experience for the end user.
 
