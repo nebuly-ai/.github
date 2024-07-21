@@ -1,12 +1,15 @@
-## Hi there 👋
+### What is NebulyAI?
 
-<!--
+At Nebuly, we view Large Language Models (LLMs) not merely as a new computing platform but as a transformative user experience revolution. As LLMs transition from proof of concept (PoC) to production, it’s essential for companies to ensure they provide real value to users.
 
-**Here are some ideas to get you started:**
+This is where Nebuly comes in. We empower product and AI teams to comprehend and enhance the user experience of LLM-based products. By analyzing user behavior and interactions with LLMs, we create detailed user profiles to identify what works well and what needs improvement, ensuring an optimal experience for the end user.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Useful links
+
+- To learn more on how to get started, visit our [official documentation](https://docs.nebuly.com/welcome/overview)
+- If you need enterprise support, please contact us [here](https://www.nebuly.com/nebuly-book-a-demo)
+
+## Community projects
+We have open-sourced a couple of internal projects to the community, but we are not currently maintaining them:
+- Nos: If you have limited GPU resources and want to maximize GPU utilization for your LLMs, this module is designed to help you achieve that.
+- Optimate: If you’re looking to optimize the latency and cost of your LLMs, this library allows you to automatically apply multiple optimization techniques.
