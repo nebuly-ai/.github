@@ -11,5 +11,5 @@ This is where Nebuly comes in. We empower product and AI teams to comprehend and
 
 ### Community projects
 We have open-sourced a couple of internal projects to the community, but we are not currently maintaining them:
-- Nos: If you have limited GPU resources and want to maximize GPU utilization for your LLMs, this module is designed to help you achieve that.
-- Optimate: If you’re looking to optimize the latency and cost of your LLMs, this library allows you to automatically apply multiple optimization techniques.
+- [Nos](https://github.com/nebuly-ai/nos): If you have limited GPU resources and want to maximize GPU utilization for your LLMs, this module is designed to help you achieve that.
+- [Optimate](https://github.com/nebuly-ai/optimate): If you’re looking to optimize the latency and cost of your LLMs, this library allows you to automatically apply multiple optimization techniques.
